@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
